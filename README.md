@@ -5,6 +5,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZERO-DAV/ZERO-DAV/output/snake.svg" alt="Snake animation" />
+<img src="../snake.yml" alt="Snake animation" />
 
 ###

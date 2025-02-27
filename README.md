@@ -1,5 +1,4 @@
 
-<img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm ZERO, a  Full-Stack Senior Developer 👋🏼:
 

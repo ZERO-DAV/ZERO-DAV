@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "id": "zero-tech-library",
+      "name": "@zero-studio/library",
+      "slug": "ZERO-Tech-Library",
+      "featured": true,
+      "description": {
+        "en": "A comprehensive component library ecosystem featuring 150+ sub-libraries and 500+ ready-made components. Built in a record-breaking 3 days.",
+        "ar": "منظومة مكتبات شاملة تضم أكثر من 150 مكتبة فرعية و 500+ مكون جاهز. تم بناؤها في 3 أيام فقط."
+      },
+      "tags": ["React", "TypeScript", "Component Library", "Open Source"],
+      "links": { "github": "https://github.com/ZERO-DAV/ZERO-Tech-Library" },
+      "status": "active",
+      "year": 2025
+    },
+    {
+      "id": "devflow",
+      "name": "DevFlow",
+      "featured": false,
+      "description": {
+        "en": "A real-time project management dashboard for dev teams with Kanban boards, sprint tracking, and GitHub integration.",
+        "ar": "لوحة تحكم لإدارة المشاريع بشكل لحظي لفرق التطوير مع لوحات Kanban وتتبع السبرنت وربط مع GitHub."
+      },
+      "tags": ["React", "Node.js", "Socket.io", "MongoDB"],
+      "links": {},
+      "status": "completed",
+      "year": 2025
+    },
+    {
+      "id": "securevault-api",
+      "name": "SecureVault API",
+      "featured": false,
+      "description": {
+        "en": "Encrypted REST API for credential management with E2E encryption, 2FA, RBAC, and audit logging.",
+        "ar": "واجهة برمجة مشفرة لإدارة بيانات الاعتماد مع تشفير شامل ومصادقة ثنائية وتحكم بالوصول."
+      },
+      "tags": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+      "links": {},
+      "status": "completed",
+      "year": 2024
+    },
+    {
+      "id": "nexcommerce",
+      "name": "NexCommerce",
+      "featured": false,
+      "description": {
+        "en": "Full-stack e-commerce platform with payment integration, inventory management, and admin dashboard.",
+        "ar": "منصة تجارة إلكترونية متكاملة مع بوابات دفع وإدارة مخزون ولوحة تحكم إدارية."
+      },
+      "tags": ["Next.js", "Stripe", "Prisma", "Tailwind"],
+      "links": {},
+      "status": "completed",
+      "year": 2024
+    },
+    {
+      "id": "chatlink",
+      "name": "ChatLink",
+      "featured": false,
+      "description": {
+        "en": "Real-time messaging app with voice rooms, file sharing, and encryption. Handles 10K+ concurrent connections.",
+        "ar": "تطبيق محادثات لحظي مع غرف صوتية ومشاركة ملفات وتشفير. يتحمل أكثر من 10 آلاف اتصال."
+      },
+      "tags": ["React", "WebSocket", "Redis", "Express"],
+      "links": {},
+      "status": "completed",
+      "year": 2025
+    }
+  ],
+  "meta": {
+    "author": "Axis",
+    "github_profile": "https://github.com/ZERO-DAV",
+    "discord": "https://discord.gg/QyY8yxz6",
+    "whatsapp": "https://wa.me/97366621114",
+    "last_updated": "2026-03-08"
+  }
+}
